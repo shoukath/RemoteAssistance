@@ -1,4 +1,5 @@
 {
+  "name": "remote-assistance",
   "engines": {
     "node": ">= 0.10.0"
   },
